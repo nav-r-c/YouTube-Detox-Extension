@@ -1,0 +1,1 @@
+const shorts = document.querySelectorAll('[is-shorts]').forEach(el => el.remove());
